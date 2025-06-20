@@ -1,130 +1,50 @@
 ---
 permalink: /
-title: "Nima Naderloui"
+title: ""
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<style>
-/* Shared section styling */
-.section {
-  margin-top: 2.5em;
-  padding-top: 1em;
-  border-top: 1px solid #ddd;
-}
+## About Me
 
-/* Section headers with underline */
-.section h2 {
-  font-size: 1.3em;
-  margin-bottom: 0.75em;
-  padding-bottom: 0.3em;
-  border-bottom: 1px solid #ccc;
-  font-weight: 600;
-}
+I'm Nima (Farsi: نیما), a 2nd-year PhD student in the Computer Science and Engineering department at UConn. I'm advised by [Prof. Yuan Hong](https://yhongcs.github.io/) and I'm a member of the [DataSec Lab](https://yhongcs.github.io/people.html).
 
-/* News box: scroll only inside News */
-.news-box {
-  max-height: 150px;
-  overflow-y: auto;
-  padding-left: 1em;
-  margin-bottom: 1em;
-  font-size: 0.95em;
-  line-height: 1.6;
-}
-.news-box ul {
-  margin: 0;
-  padding-left: 1em;
-}
-.news-box li {
-  margin-bottom: 0.75em;
-}
+I'm passionate about investigating the **privacy and safety risks of AI models**, especially those stemming from model design, behavior, and deployment strategies. In general, I'm interested in deeply understanding how AI models behave and might expose risks in practice. Right now, I’m all about digging into AI models 🕵️‍♂️, finding what breaks, and uncovering hidden vulnerabilities that others might miss — but always curious and open to learning how to patch things up 🛠️ (when needed). 
 
-/* Education box: normal block display */
-.edu-box {
-  padding-left: 1em;
-  font-size: 0.95em;
-  line-height: 1.6;
-}
-.edu-box ul {
-  margin: 0;
-  padding-left: 1em;
-}
-.edu-box li {
-  margin-bottom: 0.75em;
-  list-style: none;
-  display: flex;
-  align-items: center;
-}
-.edu-box img {
-  width: 20px;
-  height: auto;
-  margin-right: 8px;
-  flex-shrink: 0;
-}
+I'm always open to discussing new ideas and collaborations—feel free to reach out!
 
-/* Link styles */
-a {
-  color: #1a73e8;
-  text-decoration: none;
-}
-a:hover {
-  text-decoration: underline;
-}
-</style>
 
-<!-- About Me -->
-<div class="section">
-  <h2>👋 About Me</h2>
-  <p>I'm Nima, (Farsi: نیما). I'm a 2nd-year PhD student at the Computer Science and Eng. department of UConn, where I am advised by <a href="https://yhongcs.github.io/">Prof. Yuan Hong</a> and a member of <a href="https://yhongcs.github.io/people.html">DataSec Lab</a>.</p>
-I'm interested in deeply understanding how AI models behave and are applied in practice. I'm passionate about investigating the privacy and safety risks of AI systems, particularly those stemming from design choices, model behaviors, and deployment strategies. Right now, I’m all about digging into AI models 🕵️‍♂️, finding what breaks, and uncovering hidden vulnerabilities that others might miss — but always curious and open to learning how to patch things up 🛠️ when needed. Please contact me if you had any ideas we can discuss!
+
+## 📰 News
+
+<div style="overflow-y: auto; max-height: 250px; padding-right: 10px; font-size: 15px;">
+<ul>
+  <li><b>June 2025</b>: Our paper on <i>unlearning evaluation</i> was accepted at USENIX Security '25 
+    <a href="https://www.arxiv.org/abs/2506.13009" target="_blank">[Paper]</a> |
+    <a href="https://github.com/datasec-lab/Ruli" target="_blank">[Code]</a>
+  </li>
+  <li><b>December 2024</b>: Passed the Qualifying Exam </li>
+  <li><b>April 2024</b>: Awarded the Synchrony Fellowship for Spring 2024 </li>
+</ul>
 </div>
 
-<!-- News Section -->
-<!-- News Section -->
-<div class="section">
-  <h2>🗞️ News</h2>
-  <div class="news-box">
-    <ul>
-      <li>
-        <strong>June 2025</strong> – Our paper on <em>unlearning evaluation</em> was accepted at <strong>USENIX Security '25</strong>. 
-        <a href="https://www.arxiv.org/abs/2506.13009" target="_blank">Paper</a> | 
-        <a href="https://github.com/datasec-lab/Ruli" target="_blank">Code</a>
-      </li>
-      <li>
-        <strong>December 2024</strong> – Passed the Qualifying Exam.
-      </li>
-      <li>
-        <strong>April 2024</strong> – Awarded the Synchrony Fellowship for Spring 2024.
-      </li>
-    </ul>
-  </div> <!-- ✅ this closes .news-box properly -->
-</div>
 
-<!-- Education Section -->
-<div class="section">
-  <h2>🎓 Education</h2>
-  <div class="edu-box">
-    <ul>
-      <li>
-        <img src="/images/uconn.png" alt="UConn Logo">
-        <div><strong>Ph.D. in Computer Science</strong>, University of Connecticut (Sep 2023 – Present)</div>
-      </li>
-      <li>
-        <img src="/images/kntu.png" alt="KNTU Logo">
-        <div><strong>B.Sc. in Electrical Engineering</strong>, K.N. Toosi University of Technology (2017 – 2022)</div>
-      </li>
-    </ul>
-  </div>
-</div>
 
-<!-- Service Section -->
-<div class="section">
-  <h3> Service</h3>
-  <ul>
-    <li><strong>Artifact Evaluation Committee</strong>, ACM CCS 2025</li>
-    <li><strong>Reviewer</strong>, AAAI 2024</li>
-    <li><strong>External Reviewer</strong>, USENIX Security 2025, 2024, 2023; ACM CCS 2025, 2024; NDSS 2025, 2024; IEEE S&P 2024; KDD 2025; CVPR 2024</li>
-  </ul>
-</div>
+## 🎓 Education
+
+<img src="/images/uconn.png" width="25" height="25"> <span style="font-size:15px">Ph.D. in Computer Science, University of Connecticut (Sep 2023 – Present)</span><br>
+<img src="/images/kntu.png" width="25" height="25"> <span style="font-size:15px">B.Sc. in Electrical Engineering, K.N. Toosi University of Technology (2017 – 2022)</span>
+
+
+
+## 📄 Service
+
+<ul>
+  <li><strong>Artifact Evaluation Committee</strong>, ACM CCS 2025</li>
+  <li><strong>Reviewer</strong>, AAAI 2024</li>
+  <li><strong>External Reviewer</strong>, USENIX Security 2025, 2024, 2023; ACM CCS 2025, 2024; NDSS 2025, 2024; IEEE S&P 2024; KDD 2025; CVPR 2024</li>
+</ul>
+
