@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Nima Naderloui"
 author_profile: true
 redirect_from: 
   - /about/
@@ -89,7 +89,7 @@ I'm interested in deeply understanding how AI models behave and are applied in p
     <ul>
       <li>
         <strong>June 2025</strong> – Our paper on <em>unlearning evaluation</em> was accepted at <strong>USENIX Security '25</strong>. 
-        <a href="https://www.arxiv.org/abs/2506.13009" target="_blank">arXiv</a> | 
+        <a href="https://www.arxiv.org/abs/2506.13009" target="_blank">Paper</a> | 
         <a href="https://github.com/datasec-lab/Ruli" target="_blank">Code</a>
       </li>
       <li>
