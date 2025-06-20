@@ -16,6 +16,7 @@ description              : &description "2nd year Computer Science PhD student a
 url                      : https://nima-naderloui.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nima-naderloui/nima-naderloui.github.io/"
+navigation: []
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -55,7 +56,7 @@ author:
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : "191363776-nima"
+  goodreads        : "user/show/191363776-nima"
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
