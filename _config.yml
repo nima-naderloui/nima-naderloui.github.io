@@ -22,11 +22,11 @@ repository               : "nima-naderloui/nima-naderloui.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "./images/profile.jpg"
+  name             : "Nima Naderloui"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student @UConn !"
-  location         : "Storrs, Connecticut, USA"
+  bio              : "PhD student @ UConn"
+  location         : "Storrs, CT, USA"
   employer         : "University of Connecticut"
   uri              : # URL
   email            : "nima.naderloui@uconn.edu" 
@@ -51,11 +51,11 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :  # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : # Username
+  goodreads        : "191363776-nima"
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
