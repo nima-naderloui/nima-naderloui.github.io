@@ -1,4 +1,4 @@
----
+
 permalink: /
 title: ""
 author_profile: true
@@ -24,27 +24,36 @@ redirect_from:
   font-weight: 600;
 }
 
-/* News box styles */
+/* News box: scroll only inside News */
 .news-box {
   max-height: 150px;
   overflow-y: auto;
   padding-left: 1em;
+  margin-bottom: 1em;
   font-size: 0.95em;
   line-height: 1.6;
+}
+.news-box ul {
+  margin: 0;
+  padding-left: 1em;
 }
 .news-box li {
   margin-bottom: 0.75em;
 }
 
-/* Education box styles */
+/* Education box: normal block display */
 .edu-box {
   padding-left: 1em;
   font-size: 0.95em;
   line-height: 1.6;
 }
+.edu-box ul {
+  margin: 0;
+  padding-left: 1em;
+}
 .edu-box li {
   margin-bottom: 0.75em;
-  list-style-type: none;
+  list-style: none;
   display: flex;
   align-items: center;
 }
@@ -70,7 +79,9 @@ a:hover {
   <h2>👋 About Me</h2>
   <p>I'm Nima, (Farsi: نیما). I'm a 2nd-year PhD student at the Computer Science and Eng. department of UConn, where I am advised by <a href="https://yhongcs.github.io/">Prof. Yuan Hong</a> and a member of <a href="https://yhongcs.github.io/people.html">DataSec Lab</a>.</p>
 
-I'm interested in deeply understanding how AI models behave and are applied in practice. I'm passionate about investigating the privacy and safety risks of AI systems, particularly those stemming from design choices, model behaviors, and deployment strategies. Right now, I’m all about digging into AI models 🕵️‍♂️, finding what breaks, and uncovering hidden vulnerabilities that others might miss — but always curious and open to learning how to patch things up 🛠️ when needed. Please contact me if you had any ideas we can discuss!</p>
+  <p>I'm interested in deeply understanding how AI models behave and are applied in practice. I'm passionate about investigating the privacy and safety risks of AI systems, particularly those stemming from design choices, model behaviors, and deployment strategies.</p>
+
+  <p>Right now, I’m all about digging into AI models 🕵️‍♂️, finding what breaks, and uncovering hidden vulnerabilities that others might miss — but always curious and open to learning how to patch things up 🛠️ when needed. Please contact me if you had any ideas we can discuss!</p>
 </div>
 
 <!-- News Section -->
@@ -78,7 +89,7 @@ I'm interested in deeply understanding how AI models behave and are applied in p
   <h2>🗞️ News</h2>
   <div class="news-box">
     <ul>
-      <li><strong>June 2025</strong> – Our paper on "<em>unlearning evaluation</em>" was accepted at <strong>USENIX Security '25</strong </li>
+      <li><strong>June 2025</strong> – Our paper on <em>unlearning evaluation</em> was accepted at <strong>USENIX Security '25</strong>. 
         <a href="https://www.arxiv.org/abs/2506.13009" target="_blank">arXiv</a> | 
         <a href="https://github.com/datasec-lab/Ruli" target="_blank">Code</a>
       </li>
@@ -109,9 +120,8 @@ I'm interested in deeply understanding how AI models behave and are applied in p
 <div class="section">
   <h3> Service</h3>
   <ul>
-    <li><strong> Artifact Evaluation Committee</strong>, ACM CCS 2025
-    <li><strong> Reviewer, AAAI 2024
+    <li><strong>Artifact Evaluation Committee</strong>, ACM CCS 2025</li>
+    <li><strong>Reviewer</strong>, AAAI 2024</li>
     <li><strong>External Reviewer</strong>, USENIX Security 2025, 2024, 2023; ACM CCS 2025, 2024; NDSS 2025, 2024; IEEE S&P 2024; KDD 2025; CVPR 2024</li>
   </ul>
 </div>
-
