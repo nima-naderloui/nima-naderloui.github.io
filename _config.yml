@@ -65,7 +65,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD student @ UConn"
   location         : "Storrs, CT, USA"
-  employer         : "University of Connecticut"
+  #employer         : "University of Connecticut"
   uri              : # URL
   email            : "nima.naderloui@uconn.edu" 
 
