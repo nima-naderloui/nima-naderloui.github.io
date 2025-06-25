@@ -23,7 +23,7 @@ redirect_from:
 
 <style>
   body {
-    font-family: 'Inter', sans-serif;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   }
 </style>
 
