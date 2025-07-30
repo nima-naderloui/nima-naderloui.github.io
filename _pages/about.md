@@ -46,7 +46,8 @@ I'm always open to discussing new ideas and collaborations—feel free to reach 
   
   <li><b>June 2025</b>: Our paper on <i>unlearning evaluation</i> was accepted at USENIX Security '25 (See you in Seattle 🌧️☕🏔️)
     <a href="https://www.arxiv.org/abs/2506.13009" target="_blank">[Paper]</a> |
-    <a href="https://github.com/datasec-lab/Ruli" target="_blank">[Code]</a> 
+    <a href="https://github.com/datasec-lab/Ruli" target="_blank">[Code]</a> |
+    <a href="/files/USENIX25_slides_draft.pdf" target="_blank">[slides (short version)]</a>
   </li> 
   <li><b>December 2024</b>: Passed the Qualifying Exam </li>
   <li><b>April 2024</b>: Awarded the Synchrony Fellowship for Spring 2024 </li>
