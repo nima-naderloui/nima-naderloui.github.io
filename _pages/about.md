@@ -45,8 +45,9 @@ I'm always open to discussing new ideas and collaborations—feel free to reach 
    <li><b>July 2025</b>: Received the USENIX Security '25 Student Grant. Thanks for the support! </li>
   
   <li><b>June 2025</b>: Our paper on <i>unlearning evaluation</i> was accepted at USENIX Security '25 (See you in Seattle 🌧️☕🏔️)
-    <a href="https://www.arxiv.org/abs/2506.13009" target="_blank">[Paper]</a> |
-    <a href="https://github.com/datasec-lab/Ruli" target="_blank">[Code]</a> |
+    <a href="https://www.arxiv.org/abs/2506.13009" target="_blank">[paper]</a> |
+    <a href="https://github.com/datasec-lab/Ruli" target="_blank">[code]</a> |
+    <a href="/files/USENIX_25_poster_Nima.pdf" target="_blank">[poster]</a> |
     <a href="/files/USENIX25_slides_draft.pdf" target="_blank">[slides (short version)]</a>
   </li> 
   <li><b>December 2024</b>: Passed the Qualifying Exam </li>
