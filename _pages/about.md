@@ -48,7 +48,7 @@ I'm always open to discussing new ideas and collaborations—feel free to reach 
     <a href="https://www.arxiv.org/abs/2506.13009" target="_blank">[paper]</a> |
     <a href="https://github.com/datasec-lab/Ruli" target="_blank">[code]</a> |
     <a href="/files/USENIX_25_poster_Nima.pdf" target="_blank">[poster]</a> |
-    <a href="/files/USENIX25_slides_draft.pdf" target="_blank">[slides (short version)]</a>
+    <a href="/files/USENIX25_slides_draft.pdf" target="_blank">[slides (short)]</a>
   </li> 
   <li><b>December 2024</b>: Passed the Qualifying Exam </li>
   <li><b>April 2024</b>: Awarded the Synchrony Fellowship for Spring 2024 </li>
