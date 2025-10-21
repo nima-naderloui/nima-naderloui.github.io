@@ -42,7 +42,7 @@ I'm always open to discussing new ideas and collaborations—feel free to reach 
 
 <div style="overflow-y: auto; max-height: 250px; padding-right: 10px; font-size: 15px;">
 <ul> 
-    <li><b>October 2025</b>: Received the Distinguished Artifact Reviewer Award - ACM CCS '25 </li>
+    <li><b>October 2025</b>: Received the Distinguished Artifact Reviewer Award at ACM CCS 2025. Thanks for the recognition! </li>
    <li><b>July 2025</b>: Received the USENIX Security '25 Student Grant. Thanks for the support! </li>
   
   <li><b>June 2025</b>: Our paper on <i>unlearning evaluation</i> was accepted at USENIX Security '25 (See you in Seattle 🌧️☕🏔️)
