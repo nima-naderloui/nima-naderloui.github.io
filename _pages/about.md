@@ -42,6 +42,7 @@ I'm always open to discussing new ideas and collaborations—feel free to reach 
 
 <div style="overflow-y: auto; max-height: 250px; padding-right: 10px; font-size: 15px;">
 <ul> 
+  <li><b>March 2026</b>: A co-authored paper has been accepted to EuroS&P 2026. </li>
     <li><b>October 2025</b>: Received the Distinguished Artifact Reviewer Award at ACM CCS 2025. Thanks for the recognition! </li>
    <li><b>July 2025</b>: Received the USENIX Security '25 Student Grant. Thanks for the support! </li>
   
