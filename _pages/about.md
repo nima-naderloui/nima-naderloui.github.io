@@ -69,7 +69,7 @@ I'm always open to discussing new ideas and collaborations—feel free to reach 
 ## 📄 Service
 <div style="overflow-y: auto; max-height: 250px; padding-right: 10px; font-size: 15px;">
 <ul>
-  <li><strong>Artifact Evaluation Committee</strong>, ACM CCS 2025</li>
+  <li><strong>Artifact Evaluation Committee</strong>, ACM CCS 2025, USENIX Securoty 2026</li>
   <li><strong>Reviewer</strong>, AAAI 2024</li>
   <li><strong>External Reviewer</strong>, USENIX Security 2025, 2024, 2023; ACM CCS 2025, 2024; NDSS 2026, 2025; IEEE S&P 2026, 2024; KDD 2025; CVPR 2024</li>
 </ul>
