@@ -42,7 +42,7 @@ I'm always open to discussing new ideas and collaborations—feel free to reach 
 
 <div style="overflow-y: auto; max-height: 250px; padding-right: 10px; font-size: 15px;">
 <ul> 
-  <li><b>May 2026</b>: Received the UConn Computer Science Predoctoral Fellowship Tier 1. </li>
+  <li><b>May 2026</b>: Received the <i>UConn Computer Science Predoctoral Fellowship Tier 1</i> award. </li>
   <li><b>March 2026</b>: A co-authored paper has been accepted to EuroS&P '26. </li>
     <li><b>October 2025</b>: Received the Distinguished Artifact Reviewer Award at ACM CCS '25. Thanks for the recognition! </li>
    <li><b>July 2025</b>: Received the USENIX Security '25 Student Grant. Thanks for the support! </li>
