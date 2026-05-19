@@ -30,7 +30,7 @@ redirect_from:
 
 ## About Me
 
-I'm Nima (Persian: نیما), a 2nd-year PhD student in the School of Computing at University of Connecticut (UConn). I'm advised by [Prof. Yuan Hong](https://yhongcs.github.io/) and I'm a member of the [DataSec Lab](https://yhongcs.github.io/people.html).
+I'm Nima (Persian: نیما), a 3rd-year PhD student in the School of Computing at University of Connecticut (UConn). I'm advised by [Prof. Yuan Hong](https://yhongcs.github.io/) and I'm a member of the [DataSec Lab](https://yhongcs.github.io/people.html).
 
 I'm passionate about investigating the **privacy and safety risks of AI models**, especially those stemming from model design, behavior, and deployment strategies. In general, I'm interested in deeply understanding how AI models behave and might expose risks in practice. Right now, I’m all about digging into AI models 🕵️‍♂️, finding what breaks, and uncovering hidden vulnerabilities that others might miss — but always curious and open to learning how to patch things up 🛠️ (when needed). 
 
@@ -42,6 +42,7 @@ I'm always open to discussing new ideas and collaborations—feel free to reach 
 
 <div style="overflow-y: auto; max-height: 250px; padding-right: 10px; font-size: 15px;">
 <ul> 
+  <li><b>May 2026</b>: Received the UConn Computer Science Predoctoral Fellowship Tier 1. </li>
   <li><b>March 2026</b>: A co-authored paper has been accepted to EuroS&P '26. </li>
     <li><b>October 2025</b>: Received the Distinguished Artifact Reviewer Award at ACM CCS '25. Thanks for the recognition! </li>
    <li><b>July 2025</b>: Received the USENIX Security '25 Student Grant. Thanks for the support! </li>
