@@ -32,7 +32,7 @@ redirect_from:
 
 I'm Nima (Persian: نیما), a 3rd-year PhD student in the School of Computing at University of Connecticut (UConn). I'm advised by [Prof. Yuan Hong](https://yhongcs.github.io/).
 
-I work on AI safety, security, and privacy. I enjoy digging into AI models 🕵️‍♂️, finding where they break, uncovering hidden vulnerabilities, and exploring ways to make them safer 🛠️.
+I work on AI safety, and have a passion for privacy. I enjoy digging into AI models 🕵️‍♂️, finding where they break, uncovering hidden vulnerabilities, and exploring ways to make them safer 🛠️.
 
 I’m always happy to chat about new ideas and potential collaborations. Feel free to reach out!
 
