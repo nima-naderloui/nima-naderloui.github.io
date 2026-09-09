@@ -32,9 +32,9 @@ redirect_from:
 
 I'm Nima (Persian: نیما), a 3rd-year PhD student in the School of Computing at University of Connecticut (UConn). I'm advised by [Prof. Yuan Hong](https://yhongcs.github.io/).
 
-I work on AI safety, and have a passion for privacy. I enjoy digging into AI models 🕵️‍♂️, finding where they break, uncovering hidden vulnerabilities, and exploring ways to make them safer 🛠️.
+I work on AI safety, and have a passion for privacy. I enjoy digging into AI models 🕵️‍♂️, finding where they break, uncovering hidden vulnerabilities, and (sometimes) exploring ways to make them safer 🛠️.
 
-I’m always happy to chat about new ideas and potential collaborations. Feel free to reach out!
+I’m always happy to chat about new ideas. Please feel free to reach out!
 
 
 ## 📰 News
@@ -50,7 +50,7 @@ I’m always happy to chat about new ideas and potential collaborations. Feel fr
     <a href="https://www.arxiv.org/abs/2506.13009" target="_blank">[paper]</a> |
     <a href="https://github.com/datasec-lab/Ruli" target="_blank">[code]</a> |
     <a href="/files/USENIX_25_poster_Nima.pdf" target="_blank">[poster]</a> |
-    <a href="/files/USENIX25_slides_draft.pdf" target="_blank">[slides (short)]</a>
+    <a href="/files/USENIX25_slides_draft.pdf" target="_blank">[slides (demo)]</a>
   </li> 
   <li><b>December 2024</b>: Passed the Qualifying Exam </li>
   <li><b>April 2024</b>: Awarded the Synchrony Fellowship for Spring 2024 </li>
