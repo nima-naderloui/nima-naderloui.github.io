@@ -40,7 +40,8 @@ I’m always happy to chat about new ideas. Please feel free to reach out!
 ## 📰 News
 
 <div style="overflow-y: auto; max-height: 250px; padding-right: 10px; font-size: 15px;">
-<ul> 
+  <ul>
+  <li><b>September 2026</b>: A co-authored SoK work on Unified Evaluation of Attacks and Defenses of LLM Prompt Security is accepted to S&P'27. </li> 
   <li><b>May 2026</b>: Received the <i>UConn Computer Science Predoctoral Fellowship Tier 1</i> award. </li>
   <li><b>March 2026</b>: A co-authored paper has been accepted to EuroS&P '26. </li>
     <li><b>October 2025</b>: Received the Distinguished Artifact Reviewer Award at ACM CCS '25. Thanks for the recognition! </li>
